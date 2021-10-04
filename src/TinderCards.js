@@ -1,6 +1,5 @@
 import React, {useEffect, useState, useMemo} from 'react';
 import TinderCard from 'react-tinder-card';
-import database from './firebase';
 import './TinderCards.css';
 import ReplayIcon from '@mui/icons-material/Replay';
 import CloseIcon from '@mui/icons-material/Close';
